@@ -5,7 +5,6 @@
 // @description  Watch for json-ld tags and notify you on types you have specified
 // @author       You
 // @match        *://*/*
-// @match        about:blank
 // @grant        GM_xmlhttpRequest
 // @grant        unsafeWindow
 // @grant       GM_getValue
